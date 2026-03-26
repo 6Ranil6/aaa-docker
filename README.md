@@ -1,3 +1,5 @@
+# ПРОВЕРИТЬ, ЧТО ЗАДАНИЕ (step 6) БЫЛО ВЫПОЛНЕНО КОРРЕКТНО МОЖНО посмотрев файл `output.txt`
+
 # Homework
 Docker lecture repository at [Avito's Analytics Academy](https://avito-analytics-academy.ru/) Data Science course.
 
